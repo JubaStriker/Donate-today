@@ -53,7 +53,7 @@ body {
 
 }
 
-.flexible-content {
+.flexible-content1 {
     display: flex;
     padding-left: 30%;
     padding-top: 100px;
@@ -101,4 +101,37 @@ input[type="text"] {
     position: relative;
     top: 10px;
     left: 45%
+}
+
+.flexible-content2 {
+    display: flex;
+    width: 80%;
+    padding-left: 160px;
+    padding-right: 20px;
+    margin-top: 80px;
+}
+
+.donate-plan {
+    width: 800px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+
+.bg-color1 {
+    background-color: rgba(0, 217, 255, 0.192);
+}
+
+
+.bg-color2 {
+    background-color: rgba(255, 0, 13, 0.192);
+}
+
+.bg-color3 {
+    background-color: rgba(148, 0, 211, 0.171);
 }
