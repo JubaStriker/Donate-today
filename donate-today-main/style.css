@@ -37,3 +37,43 @@ body {
     top: 350px;
     left: 250px
 }
+
+.body-head {
+    font-size: 45px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.body-subhead {
+    font-size: smaller;
+    text-align: center;
+    color: gray;
+    padding: 10px 300px;
+
+}
+
+.flexible-content {
+    display: flex;
+    padding-left: 35%;
+    padding-top: 100px;
+}
+
+.box1 {
+    height: 50px;
+    width: 90px;
+    border: 0px solid #FF5959;
+    padding-top: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.box2 {
+    height: 50px;
+    width: 90px;
+    border: 3px solid #FF5959;
+    padding-top: 30px;
+    border-radius: 5px;
+    text-align: center;
+    color: #FF5959;
+    background-color: #ff595934;
+}
