@@ -111,7 +111,7 @@ input[type="text"] {
     margin-top: 80px;
 }
 
-.donate-plan {
+.flex-box {
     width: 800px;
     padding-top: 50px;
     padding-left: 30px;
@@ -134,4 +134,56 @@ input[type="text"] {
 
 .bg-color3 {
     background-color: rgba(148, 0, 211, 0.171);
+}
+
+.flexible-content3 {
+    display: flex;
+    width: 80%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 100px;
+}
+
+.body-head1 {
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.contribute-button {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, red);
+    position: relative;
+    left: 45%
+}
+
+.botom-box {
+    width: 700px;
+    border: 0px solid gray;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 250px;
+    margin: 5% 20%;
+    background-color: rgba(255, 0, 0, 0.226);
+}
+
+input[type="email"] {
+    width: 40%;
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 0px solid red;
+    background-color: rgba(128, 128, 128, 0.384);
+}
+
+.sub-button {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, red);
+    position: relative;
 }
